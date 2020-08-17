@@ -1,0 +1,29 @@
+{
+  "name": "bitstrapped-challenge",
+  "version": "1.0.0",
+  "description": "Interview code challenge",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-react-views": "^0.11.0",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon ./index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runata/bitstrapped-challenge.git"
+  },
+  "author": "Nikita Plakhotin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runata/bitstrapped-challenge/issues"
+  },
+  "homepage": "https://github.com/runata/bitstrapped-challenge#readme"
+}
